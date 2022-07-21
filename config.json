@@ -1,0 +1,9 @@
+{
+	"ip":"lesmp.aternos.me",
+	"port": 27714,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register lehgg51973 lehgg51973",
+	"login-cmd":"/login lehgg51973"
+}
